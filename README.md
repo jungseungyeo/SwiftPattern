@@ -1,3 +1,3 @@
 # SwiftPatten
 
-- Factory Patten
+- [Factory Patten](\FatoryPattenSample)
