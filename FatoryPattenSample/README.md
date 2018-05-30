@@ -71,5 +71,4 @@ view는 OutputView(_ product: Factoryable) 입니다.
 
 이렇게 Factory패턴은 View가 해당 제품을 모르고 생상될 때 알 수 없게 하는 것이 중요합니다.
 
-소스보기
-
+[블로그](http://linsaeng.tistory.com/5)
