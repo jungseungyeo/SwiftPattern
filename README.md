@@ -1,6 +1,5 @@
 # SwiftPatten
 
-- [Factory Patten](.\FatoryPattenSample)
-- [Observer Patten](.\ObseverPatternSample)
-
-
+- [Factory Pattern](.\FatoryPattenSample)
+- [Observer Pattern](.\ObseverPatternSample)
+- [Builder Pattern](.\BuilderPattern)
