@@ -8,4 +8,5 @@
 
 protocol Factoryable {
     func makeProduct() -> String
+    func tmp() -> String
 }

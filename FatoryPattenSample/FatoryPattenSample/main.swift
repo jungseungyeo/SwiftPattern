@@ -17,6 +17,7 @@ func main() {
 
 func outputView(_ product: Factoryable) {
      print("공장에서 \(product.makeProduct())을 만들었습니다.")
+     print(product.tmp())
 }
 
 main() 

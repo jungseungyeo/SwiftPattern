@@ -10,4 +10,8 @@ struct Pen: Factoryable {
     func makeProduct() -> String {
         return "펜"
     }
+    
+    func tmp() -> String {
+        return "tmp 펜 "
+    }
 }

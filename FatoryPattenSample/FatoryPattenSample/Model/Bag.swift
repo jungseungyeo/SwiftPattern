@@ -10,4 +10,8 @@ struct Bag: Factoryable {
     func makeProduct() -> String{
         return "가방"
     }
+    
+    func tmp() -> String {
+        return "tmp 가방 입니다."
+    }
 }
